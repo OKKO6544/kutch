@@ -1,0 +1,48 @@
+#line{
+    background-image: linear-gradient(to right,#072A6C,#51428F,#C32148);
+}
+
+h3{
+    font-family: Times;
+}
+
+div{
+text-align: center;
+}
+
+ul{
+    display: inline-block;
+    text-align: left;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: #253568;
+}
+
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #253568;
+    font: 24px;
+}
+
+#schedule {
+    background-color: #253568;
+			/* Green */
+			border: none;
+			color: white;
+			padding: 10px 20px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			margin: 4px 2px;
+			cursor: pointer;
+			border-radius: 4px;
+}
+
+.row {
+	display: flex;
+  }
+  
+  .column {
+	flex: 33.33%;
+	padding: 5px;
+  }
